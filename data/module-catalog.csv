@@ -1,0 +1,16 @@
+module_id,kind,name,base_usd,adds,description
+M01,client_ops,intake_form,9,forms,Client intake questions for the named niche
+M02,client_ops,scope_recap,9,templates,Same-day recap after a verbal change
+M03,client_ops,change_order,12,templates,One-page add/swap/drop order
+M04,client_ops,email_ladder,12,emails,Three-tone emails (soft / priced / pause)
+M05,client_ops,onboarding_sop,9,sop,First-week client SOP
+M06,rate_desk,cited_rate_card,15,csv,2026 public median rates for selected trades
+M07,rate_desk,quote_sheet,12,csv,Hours × rate quote grid the buyer can overwrite
+M08,rate_desk,loss_bench,15,csv,Modeled unpaid-scope bench with published formula
+M09,launch,preflight_qa,12,checklist,Listing / download / license QA before publish
+M10,launch,offer_page,9,copy,One-page listing copy for the named pack
+M11,sop,delivery_sop,9,sop,How the buyer delivers the finished work
+M12,sop,revision_sop,9,sop,What counts as a revision vs a change
+M13,sequence,welcome_3,9,emails,3-email welcome after a digital sale
+M14,sequence,dunning_4,12,emails,4-step overdue invoice ladder
+M15,data,worked_example,6,example,One filled example using the buyer's niche
