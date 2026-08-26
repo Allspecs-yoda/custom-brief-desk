@@ -1,0 +1,7 @@
+metro,rpp,premium_vs_national,source,source_url,formula
+national,1.00,0.00,WhatShouldICharge 2026 regional section (BEA RPP),https://whatshouldicharge.io/statistics/freelance-rates-2026,local_rate = round(national_median * rpp)
+san_francisco,1.18,0.18,WhatShouldICharge 2026: SF 18% premium (BEA RPP 1.18),https://whatshouldicharge.io/statistics/freelance-rates-2026,local_rate = round(national_median * rpp)
+new_york,1.15,0.15,WhatShouldICharge 2026: NY 15% above (RPP 1.15),https://whatshouldicharge.io/statistics/freelance-rates-2026,local_rate = round(national_median * rpp)
+denver,1.03,0.03,WhatShouldICharge 2026: Denver 3% above (RPP 1.03),https://whatshouldicharge.io/statistics/freelance-rates-2026,local_rate = round(national_median * rpp)
+chicago,1.01,0.01,WhatShouldICharge 2026: Chicago 1% above (RPP 1.01),https://whatshouldicharge.io/statistics/freelance-rates-2026,local_rate = round(national_median * rpp)
+austin,0.97,-0.03,WhatShouldICharge 2026: Austin 3% below (RPP 0.97),https://whatshouldicharge.io/statistics/freelance-rates-2026,local_rate = round(national_median * rpp)

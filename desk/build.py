@@ -147,7 +147,15 @@ def files_for(mods: list[dict], brief: dict) -> list[str]:
         elif n == "onboarding_sop":
             files.append("sop/onboarding.md")
         elif n == "cited_rate_card":
-            files.append("data/rate-card.csv")
+            files.extend(
+                [
+                    "data/rate-card.csv",
+                    "data/metro-rpp.csv",
+                    "data/platform-fees.csv",
+                    "data/salary-floor.csv",
+                    "data/SOURCES.md",
+                ]
+            )
         elif n == "quote_sheet":
             files.append("data/quote-sheet.csv")
         elif n == "loss_bench":
@@ -467,11 +475,13 @@ Revisions included: [n]. After that, every change uses the change-order template
         )
 
     if "cited_rate_card" in chosen:
-        lines = ["trade,rate_usd,source"]
+        lines = ["trade,rate_usd,source,source_url"]
         for r in selected:
-            lines.append(f"{r['trade']},{r['rate_usd']},{r['source']}")
+            lines.append(f"{r['trade']},{r['rate_usd']},{r['source']},{r.get('source_url','')}")
         write(out / "data/rate-card.csv", "\n".join(lines))
         write(out / "data/SOURCES.md", (ROOT / "data" / "SOURCES.md").read_text(encoding="utf-8"))
+        for extra in ("metro-rpp.csv", "platform-fees.csv", "salary-floor.csv"):
+            write(out / "data" / extra, (ROOT / "data" / extra).read_text(encoding="utf-8").rstrip("\n"))
 
     if "quote_sheet" in chosen:
         lines = ["item,hours_mid,rate_usd,fee_mid_usd,notes"]

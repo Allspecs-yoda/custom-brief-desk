@@ -1,0 +1,5 @@
+target_employee_salary_usd,freelance_gross_low_usd,freelance_gross_mid_usd,freelance_gross_high_usd,billable_hours_year,floor_rate_mid_usd,self_employment_tax_pct,unbillable_share,source,source_url,notes
+100000,130000,130000,150000,1200,108,0.153,0.35,WhatShouldICharge 2026 stats 4–7 and 36–39,https://whatshouldicharge.io/statistics/freelance-rates-2026,1.3x–1.5x salary; ~1200 billable hours; 30–40% week unbillable; SE tax 15.3%. floor_rate_mid = round(130000/1200)
+75000,97500,97500,112500,1200,81,0.153,0.35,same page; multiple applied to 75k,https://whatshouldicharge.io/statistics/freelance-rates-2026,modeled from published 1.3x–1.5x multiple — not a separate survey
+50000,65000,65000,75000,1200,54,0.153,0.35,same page; multiple applied to 50k,https://whatshouldicharge.io/statistics/freelance-rates-2026,modeled from published 1.3x–1.5x multiple — not a separate survey
+125000,162500,162500,187500,1200,135,0.153,0.35,same page; multiple applied to 125k,https://whatshouldicharge.io/statistics/freelance-rates-2026,modeled from published 1.3x–1.5x multiple — not a separate survey

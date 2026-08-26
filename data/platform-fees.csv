@@ -1,0 +1,4 @@
+platform,fee_pct,fee_note,example_gross_usd,example_fee_usd,formula,source,source_url
+fiverr,0.20,flat 20% including tips,60000,12000,fee = gross * fee_pct,WhatShouldICharge 2026 stats 41–43,https://whatshouldicharge.io/statistics/freelance-rates-2026
+upwork,0.10,variable 0–15%; page cites ~10% average,60000,6000,fee = gross * fee_pct (use 0.10 unless you know your tier),WhatShouldICharge 2026 stat 42,https://whatshouldicharge.io/statistics/freelance-rates-2026
+independent,0.00,own site; overhead is dollars not percent — see salary-floor.csv,60000,0,fee = 0; still pay software/health/tax,WhatShouldICharge 2026 stat 44,https://whatshouldicharge.io/statistics/freelance-rates-2026

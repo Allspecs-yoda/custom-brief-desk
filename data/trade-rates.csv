@@ -1,13 +1,41 @@
-trade,rate_usd,source
-web_design,105,WhatShouldICharge 2026 median Web Developers
-graphic_design,75,WhatShouldICharge 2026 median Graphic Designers
-copywriting,85,WhatShouldICharge 2026 median Copywriters
-video_edit,85,WhatShouldICharge 2026 median Video Editors
-ui_ux,120,WhatShouldICharge 2026 median UI/UX Designers
-social_mgmt,85,WhatShouldICharge 2026 median Social Media Managers
-illustration,100,WhatShouldICharge 2026 median Illustrators
-photography,150,WhatShouldICharge 2026 median Photographers
-webflow,100,WhatShouldICharge 2026 median Webflow Developers
-dev_app,140,WhatShouldICharge 2026 median Software Developers
-dev_wordpress,65,TryPros 2026 median WordPress Development
-bookkeeping,45,TryPros 2026 median Bookkeeping
+trade,rate_usd,source,source_url,notes
+web_design,105,WhatShouldICharge 2026 median Web Developers,https://whatshouldicharge.io/statistics/freelance-rates-2026,BLS-derived; republish with link
+graphic_design,75,WhatShouldICharge 2026 median Graphic Designers,https://whatshouldicharge.io/statistics/freelance-rates-2026,BLS-derived; republish with link
+copywriting,85,WhatShouldICharge 2026 median Copywriters,https://whatshouldicharge.io/statistics/freelance-rates-2026,BLS-derived; republish with link
+video_edit,85,WhatShouldICharge 2026 median Video Editors,https://whatshouldicharge.io/statistics/freelance-rates-2026,BLS-derived; republish with link
+ui_ux,120,WhatShouldICharge 2026 median UI/UX Designers,https://whatshouldicharge.io/statistics/freelance-rates-2026,BLS-derived; republish with link
+social_mgmt,85,WhatShouldICharge 2026 median Social Media Managers,https://whatshouldicharge.io/statistics/freelance-rates-2026,BLS-derived; republish with link
+illustration,100,WhatShouldICharge 2026 median Illustrators,https://whatshouldicharge.io/statistics/freelance-rates-2026,BLS-derived; republish with link
+photography,150,WhatShouldICharge 2026 median Photographers,https://whatshouldicharge.io/statistics/freelance-rates-2026,BLS-derived; republish with link
+webflow,100,WhatShouldICharge 2026 median Webflow Developers,https://whatshouldicharge.io/statistics/freelance-rates-2026,BLS-derived; republish with link
+dev_app,140,WhatShouldICharge 2026 median Software Developers,https://whatshouldicharge.io/statistics/freelance-rates-2026,BLS-derived; republish with link
+brand_strategy,175,WhatShouldICharge 2026 median Brand Strategists,https://whatshouldicharge.io/statistics/freelance-rates-2026,BLS-derived; republish with link
+voice_over,200,WhatShouldICharge 2026 median Voice-Over Artists,https://whatshouldicharge.io/statistics/freelance-rates-2026,BLS-derived; republish with link
+marketing_consult,150,WhatShouldICharge 2026 median Marketing Consultants,https://whatshouldicharge.io/statistics/freelance-rates-2026,BLS-derived; republish with link
+seo,125,WhatShouldICharge 2026 median SEO Consultants,https://whatshouldicharge.io/statistics/freelance-rates-2026,BLS-derived; republish with link
+pr,125,WhatShouldICharge 2026 median PR Specialists,https://whatshouldicharge.io/statistics/freelance-rates-2026,BLS-derived; republish with link
+ppc,120,WhatShouldICharge 2026 median PPC Specialists,https://whatshouldicharge.io/statistics/freelance-rates-2026,BLS-derived; republish with link
+motion,110,WhatShouldICharge 2026 median Motion Designers,https://whatshouldicharge.io/statistics/freelance-rates-2026,BLS-derived; republish with link
+meta_ads,100,WhatShouldICharge 2026 median Meta Ads Specialists,https://whatshouldicharge.io/statistics/freelance-rates-2026,BLS-derived; republish with link
+presentation,100,WhatShouldICharge 2026 median Presentation Designers,https://whatshouldicharge.io/statistics/freelance-rates-2026,BLS-derived; republish with link
+podcast_edit,75,WhatShouldICharge 2026 median Podcast Editors,https://whatshouldicharge.io/statistics/freelance-rates-2026,BLS-derived; republish with link
+virtual_assistant,45,WhatShouldICharge 2026 median Virtual Assistants,https://whatshouldicharge.io/statistics/freelance-rates-2026,BLS-derived; republish with link
+dev_wordpress,65,TryPros 2026 median WordPress Development,https://trypros.com/freelance-market-rates-2026/,platform aggregate through March 2026
+bookkeeping,45,TryPros 2026 median Bookkeeping,https://trypros.com/freelance-market-rates-2026/,platform aggregate through March 2026
+web_react,90,TryPros 2026 median Web Development (React Next.js),https://trypros.com/freelance-market-rates-2026/,platform aggregate through March 2026
+mobile,110,TryPros 2026 median Mobile Development,https://trypros.com/freelance-market-rates-2026/,platform aggregate through March 2026
+fullstack,100,TryPros 2026 median Full-Stack Development,https://trypros.com/freelance-market-rates-2026/,platform aggregate through March 2026
+shopify,75,TryPros 2026 median Shopify/E-commerce Development,https://trypros.com/freelance-market-rates-2026/,platform aggregate through March 2026
+cloud,140,TryPros 2026 median Cloud Architecture,https://trypros.com/freelance-market-rates-2026/,platform aggregate through March 2026
+devops,125,TryPros 2026 median DevOps Engineering,https://trypros.com/freelance-market-rates-2026/,platform aggregate through March 2026
+qa,55,TryPros 2026 median QA/Testing,https://trypros.com/freelance-market-rates-2026/,platform aggregate through March 2026
+blog_writing,50,TryPros 2026 median Blog/Article Writing,https://trypros.com/freelance-market-rates-2026/,platform aggregate through March 2026
+tech_writing,80,TryPros 2026 median Technical Writing,https://trypros.com/freelance-market-rates-2026/,platform aggregate through March 2026
+ux_writing,85,TryPros 2026 median UX Writing / Microcopy,https://trypros.com/freelance-market-rates-2026/,platform aggregate through March 2026
+ghostwriting,110,TryPros 2026 median Ghostwriting,https://trypros.com/freelance-market-rates-2026/,platform aggregate through March 2026
+grant_writing,90,TryPros 2026 median Grant Writing,https://trypros.com/freelance-market-rates-2026/,platform aggregate through March 2026
+email_marketing,60,TryPros 2026 median Email Marketing,https://trypros.com/freelance-market-rates-2026/,platform aggregate through March 2026
+growth,110,TryPros 2026 median Growth Marketing,https://trypros.com/freelance-market-rates-2026/,platform aggregate through March 2026
+project_mgmt,85,TryPros 2026 median Project Management,https://trypros.com/freelance-market-rates-2026/,platform aggregate through March 2026
+va_general,35,TryPros 2026 median Virtual Assistant (General),https://trypros.com/freelance-market-rates-2026/,platform aggregate through March 2026
+business_consult,175,TryPros 2026 median Business Consulting,https://trypros.com/freelance-market-rates-2026/,platform aggregate through March 2026
