@@ -1,0 +1,10 @@
+{
+  "buyer_handle": "studio-example",
+  "product_name": "Wedding Photo Change Desk",
+  "audience": "Solo wedding photographers who get same-week extra-hour requests",
+  "niche": "wedding photography",
+  "trades": ["photography"],
+  "modules": ["intake_form", "scope_recap", "change_order", "email_ladder", "cited_rate_card", "quote_sheet"],
+  "tone": "warm",
+  "include_worked_example": true
+}
