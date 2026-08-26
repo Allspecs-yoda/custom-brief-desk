@@ -1,0 +1,10 @@
+{
+  "buyer_handle": "desk-example",
+  "product_name": "SaaS Copy Ops Kit",
+  "audience": "Freelance B2B copywriters onboarding a new SaaS client",
+  "niche": "SaaS marketing copy",
+  "trades": ["copywriting"],
+  "modules": ["intake_form", "onboarding_sop", "revision_sop", "welcome_3", "cited_rate_card"],
+  "tone": "plain",
+  "include_worked_example": true
+}
